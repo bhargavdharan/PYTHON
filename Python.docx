@@ -34,3 +34,143 @@ disadvantages
 - Identity operators (is, is not)
 - Membership operators (in , not in)
 - Bitwise operators ()
+
+* VARIABLES
+
+Variable is a container to store a values
+- There is no command in the python to create a Variable (var can be created at the moment you assign a value to it)
+- Variables do not need to be declared with any particular type and we can change type after they have been SETUP
+- We can specify data type of a variable by using "Casting"
+- We can get the data type of a variable by using "typeof()" operator
+- Variable names always should declare in case-sensitive
+
+Variable Names
+- A variable can have a short name (like x and y) or a more descriptive name (age, carname, total_volume). 
+Rules for Python variables
+- A variable name must start with a letter or the underscore character
+- A variable name cannot start with a number
+- A variable name can only contain alpha-numeric characters and underscores (A-z, 0-9, and _ )
+- Variable names are case-sensitive (age, Age and AGE are three different variables)
+
+ex : Legal variable names
+myvar = "John"
+my_var = "John"
+_my_var = "John"
+myVar = "John"
+MYVAR = "John"
+myvar2 = "John"
+
+ex : iLLegal variable names
+2myvar = "John"
+my-var = "John"
+my var = "John"
+
+Multi Words Variable Names
+- Variable names with more than one word can be difficult to read.
+- There are several techniques you can use to make them more readable:
+
+1. Camel Case
+Each word, except the first word , remaining all words starts with a capital letter
+
+myVariableName = "John"
+
+2. Pascal Case
+Each word starts with a capital letter:
+
+MyVariableName = "John"
+
+3. Snake Case
+Each word is separated by an underscore character:
+
+my_variable_name = "John"
+
+Many Values to Multiple Variables
+Python allows you to assign values to multiple variables in one line:
+
+Ex : x, y, z = "Orange", "Banana", "Cherry"
+print(x)
+print(y)
+print(z)
+
+One Value to Multiple Variables
+And you can assign the same value to multiple variables in one line:
+
+Ex : x = y = z = "Orange"
+print(x)
+print(y)
+print(z)
+
+* DATA TYPES
+
+Built-in Data Types
+- In programming, data type is an important concept.
+- Variables can store data of different types, and different types can do different things.
+- Python has the following data types built-in by default, in these categories:
+Text Type:	str
+Numeric Types:	int, float, complex
+Sequence Types:	list, tuple, range
+Mapping Type:	dict
+Set Types:	set, frozenset
+Boolean Type:	bool
+Binary Types:	bytes, bytearray, memoryview
+None Type:	NoneType
+
+-- NUMERIC TYPES
+
+There are three numeric types in Python:
+int
+float
+complex
+
+Variables of numeric types are created when you assign a value to them:
+
+x = 1    # int
+y = 2.8  # float
+z = 1j   # complex
+
+To verify the type of any object in Python, use the type() function:
+
+Int
+Int, or integer, is a whole number, positive or negative, without decimals, of unlimited length.
+Float
+Float, or "floating point number" is a number, positive or negative, containing one or more decimals.
+Complex
+Complex numbers are written with a "j" as the imaginary part
+
+Type Conversion
+You can convert from one type to another with the int(), float(), and complex() methods:
+
+x = 1    # int
+y = 2.8  # float
+z = 1j   # complex
+
+#convert from int to float:
+a = float(x)
+
+#convert from float to int:
+b = int(y)
+
+#convert from int to complex:
+c = complex(x)
+
+print(a)
+print(b)
+print(c)
+
+print(type(a))
+print(type(b))
+print(type(c))
+
+
+Random Number
+Python does not have a random() function to make a random number, but Python has a built-in module called random that can be used to make random numbers
+
+* PYTHON CASTING 
+
+- There may be times when you want to specify a type on to a variable. This can be done with casting.
+- Python is an object-orientated language, and as such it uses classes to define data types, including its primitive types.
+- Casting in python is therefore done using constructor functions:
+int() - constructs an integer number from an integer literal, a float literal (by removing all decimals), or a string literal (providing the string represents a whole number)
+float() - constructs a float number from an integer literal, a float literal or a string literal (providing the string represents a float or an integer)
+str() - constructs a string from a wide variety of data types, including strings, integer literals and float literals
+
