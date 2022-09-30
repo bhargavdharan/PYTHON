@@ -1,0 +1,36 @@
+------------------PYTHON PROGRAMMING LANGUAGE-------------------------
+
+1. INTRO
+
+* Why Should we learn Python ?
+
+- EASY TO USE | Why it is easy to use ? - Python is compact and easy to use with simpe syntaxes.
+- INTERPRETED LANGUAGE | 
+- CROSS PLATFORM LANGUAGE or PLATFORM INDEPENDENT LANGUAGE
+- FREE & OPEN SOURCE
+
+disadvantages
+
+- Not the fastest language
+- Lesser libraries than C, perl, java
+- Not strong as Type binding
+- Not easily convertible
+
+* SETUP PROCESS OF PYTHON IN LOCAL SYSTEM
+
+- Download VS code in any website (https://code.visualstudio.com/)
+- Then download these two extensions in VS code :(press ctrl+shift+x --> it opens product store in left side panel with list of extensions installed in your system)
+   1. Python Extensions
+   2. Code Runner
+
+* OPERATIONS
+
+2 + 2 = 4  ==> operands --> 2,2,4  operators --> +,=
+
+- Arithmetic operators (+,-,*,/,%,exp)
+- Assignment operators (+=,-=,.......)
+- Comparison operators (>,<,==,!=)
+- Logical operators (and, or, not)
+- Identity operators (is, is not)
+- Membership operators (in , not in)
+- Bitwise operators ()
