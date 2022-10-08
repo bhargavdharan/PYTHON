@@ -1,0 +1,172 @@
+It Is very difficult for one to think of a life without computers, But computers is a recent invention or mankind. It was just in the year 1936
+
+1936 - contract zoos created the world 's first progrannable computer called as said
+It was assembled using metal plates pins and old films creating a machine that could easily add and subtract 
+
+1940  -  Going forward during the difficult time in world war situation. All what to The American army created. 
+The Eniac computer - A machine so large that it weighed 30 tons needed a thousand 500 square feet room to house its 40 cabinets switches , a machine so large that it weighed 30 tons needed a thousand 500 square feet room to house
+Its 40 cabinets, 6,000 switches and 18,ØØØ vacuum tubes. But computers were soon. Evolving 1950s the size of computers started reducing started becoming more powerful. However, it was solely used by scientists and mathematicians to do complex calculations and a common man could only dream of warning such a machine this changed in 1960s when the
+programmer 101 became the first computer to be sold to the common land and computers only kept getting more and more popular and in the 1970s inspired grades such as Steve Jobs to push the boundaries of what a computer could do and looked like this resulted in the invention of the iconic McIntosh computer and from there, there was no looking back as computer started
+evolutary evolving at a rapid base fast forward to the present time computers come in all shapes and sizes be desktop, computers or laptops or the extremely powerful servers computers have become the driving force behind
+the way we live our lives and has also reached the palms of our hands.
+
+modern-day computer such as this has many hardware components inside it which makes it do what it is able
+to but in general every computer offer modern times definitely would have a combination of these hardware devices.
+The microprocessor, the hard disk the RAM and the graphic card or what is gently known as a GPU is
+definitely one of the components present in the hardware of the software in the system
+however, out of all these components if I have to pick one componentand call it as the most important component or 
+the heart of a computer then without a doubt that would be the microprocessor, hence as a computer scientist as a person who wants to master programming. Definitely one has to know something more general or more fundamental about what is a Whenever one speaks about the microprocessor a name which is also synonymous with it. Here's the CPU Whether you say CPU microprocessor 
+
+general terms you're always referring. However, this microprocessor of friends was created using a unique technology called as the semiconductor that is the
+technology using which this microprocessor was created
+now. 
+
+What is a semiconductor technology ?
+in very very simple words. It is a technology which makes use of devices called transistors and I am sure you heard of these words
+transistors somewhere along your education.
+However if you please go back into your memory, you will know that transistors are always categorized into two types. Your NPN and your PNB trans systems. These are the two types of transistors availability
+
+Transistor device are only and only capable of storing one thing and nothing else.
+
+What is that one thing ?
+One thing is nothing but voltage that is the only thing which transistors are capable of storing for over in voltage.
+There are only two states of voltage, which is the high state of voltage or the low state of voltage
+
+Whenever we speak about high end
+low voltage. Please understand high doesn 't mean thousand 2,000 volts. It is just a minimal 5 volts andwhen I say low it is 0 . 5 Volts means high  and 0 means
+low. However, as computer science engineers, we wanted to give a formal definition to high and low voltage to represent it better and to make our representation simple simple. We as computer scientists decided to call it the high voltage as one and the low voltage
+as zero.
+
+Hence, in a way a microprocessor is a
+semiconductor technology device which fundamentally is of transistors and transistors Can either store high
+or low voltage or a one and zero? Which means This is a device which can only and only understand binary
+language.
+
+which means this is a device which
+can only and only understand binary language or a combination of ones and zeros, hence long back. Then initially computers were created. People were very happy that there was a device which could take instructions from them and perform the instructions in the exact same order in which it was specified The human became the master and the computer became the slave who would follow every instruction
+without a single question and in many ways that is why computers have become so famous and an irreplaceable
+part of our lives, But it's very important that one gives instructions to the computer because it is incapable of thinking on its own and performing actions on its own and hence programmers had to write instructions. In fact, collection of instructions is what we technically refer to as a program and this art of writing instructions for a
+computer is what in today's terms is called as coding or progranming that is what is coding and progranming.
+
+These instructions which were created had to be written in a language or in a form which when given to the microprocessor, it is capable of understanding it and
+you guys know the only language which the mind microprocessor understands - it is just a combination of ones and zeros 
+
+hence all the instructions which were written were actually a combination of zeros and ones.
+Every instruction was actually in binary or zeros and once now these binaries. When given as inputs to the microprocessor. Definitely the microprocessor would understand it and the moment the instructions reach the microprocessor within a fraction of a second, it would execute it and perform the task assigned to it, which is what we nowadays technically referred to as
+getting the output. That is what output is actually, However, this style of coding there in code had to be written as a combination of ones and zeros is what we refer to as machine level language (MLL) 
+
+Anyways human beings are creature
+which always try to push the boundaries in everything that we perform.
+
+Human beings in general were not
+comfortable in writing code in just a combination of zeros and once because somehow it is not a very friendly or an intuitive style of coding first because
+we do not speak in binary. We do not write in binary and hence it does not come naturally to us. It was to
+write code in one sentence. Hence later they decided to change this type of code. 
+
+What did they do ?
+they replaced all this machine level language and they decided that they want to write code using short
+English like words. For example if anyone had to do addition, they just wanted to say add if anyone wanted to do subtraction. They just want to just wanted to tell some if in case they wanted to do multiplication
+division then they were short forms associated for that
+as well. 
+
+Technically these short words are only called as pneumonic. 
+
+However, when they shifted to this style
+of coding on one end they were very happy because in comparison to writing code in ones and zeros. This was a much more simpler way of doing coding
+but at the same time I have a question for you. If in case and of course this style of coding is what is referred to as assembly level language style of coding or ALL
+
+Now my question to you
+is if I write code like this, which is definitely easier for me as a human being And I give this as input
+to my microprocessor. If I give it as input to my microprocessor. Do you think the microprocessor will be able to understand my language and give me output Well if you have been really following whatever I have been  saying that without a doubt and doubt your answer would be that the microprocessor is not going to understand this language and is definitely not going to give me any
+output because the began by establishing that this processor can only understand a combination of one's and
+zero's which further translates to different states of voltage But but we are not speaking to it in a language.
+so we are speaking in a language which is more comfortable for us, but definitely doesn 't make any sense of the processor that is when they realized that not only the simplification of coding
+player vital role. They must now create another software whose duty is to take this code which we have written in assembly level language and convert it into the style which the microprocessor understands which is zeros and ones and where they successful in doing that definitely they were and please understand this is the software which
+we created for that purpose and this software is what we call as an assembler of software now. 
+
+What is an assembler?
+ simple give your assembly level code as input to the similar. The assembler is going to take whatever you have written in assembly level language and convert it and as it is into binary language or machine level language like this one it once it is in the machine level language form. Please feed it as input to the
+microprocessor and definitely is going to understand it and when it understands it will execute the task for
+you and give you the output
+
+ALL --> assembler --> MLL --> Microprocessor/CPU
+
+But we as human was still not as satisfied. Of course assembly level was a
+great improvement in comparison to machine level, but we wanted to write code the way we interact with each
+other on a daily basis. We wanted to write code using English-like statements. We wanted to write code using symbols because that is the most human friendly and intuitive way of writing code and as a matter of fact the ones again made a shift from assembly level style of coding to a style of
+coding. We used English like statements and symbols and this style of coding is what is technically referred to as the high level language style of code.
+
+HLL --> In the high level style of coding that we know that it is not the combination of zeros and ones which mean which means the microprocessor can definitely not understand these instructions and hence our conversion should happen from high level to machine level 
+
+Well. How did they do that very simple? 
+They made another piece of software called as the compiler.
+
+What is the compilers duty?
+It's duties. Very simple. Take the high-level language instructions as input and convert them machine-level language
+
+machine level the machine or the microprocessor can
+definitely understand what it is being instructed to do
+and hence would do the task completly or the output would
+be available to us.
+
+So the evolution of programming languages went from writing code in machine level then to assembly level and finally to high level and from the day high level was invented up until today we have been using only and only high-level style of coding.
+
+famous programming programing languages in the world .
+100% are high-level programming languages but out of
+all of those languages when we consider the Python
+programming language Python to that extent. I would
+like to call it as a very high-level progranming
+language because in comparison to other languages its syntax a lots easier.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+We learned that Python is a high-level programming language and whenever a program is written in high level 100% in its original form. It can never ever be executed by the
+microprocessor, hence a conversion must happen from
+high level to machine level.
+
+Now we will learn how this convertion happens ?
+
+HLL(High-Level Language)  --> MLL(Machine-Level Language)
+
+We need two disctinct softwares to perform this conversion
+1. COMPILER
+2. INTERPRETER
+
+COMPILATION PROCESS
+software in focus. Here is nothing but a compiler Well .
+How does the compilation process 100k like Let me show
+you Let us assume I have a program like this which is
+written purely in high level language machine.
+
+Now you know this high-instructions is not something which the microprocessor can understand. However, inside which instructions are stored in HLL and techincally called as "SOURCE CODE".
+
+So anywhere in the future. If you encounter this word source file you must understand it is a file which contains high level language instructions. That 's it.
+However, who has to execute this file is none other
+than the heart of a computer which is the microprocessor Now. This microprocessor expects this language to be in machine level So the perform conversion I am going to take the conversion. I am going to take the help of a software
+call as a compiler. 
+How does the compiler work?
+Very easy.
+It is going to take this entire source file as input convert every instruction in that source file into machine level language like this. It is going to convert each and every instruction into machine level language Once it is in machine level language, please feed it as input to the microprocessor and because it is in a language that it can understand
+immediate execution would happen post which you will
+definitely be getting the output. 
+
+However, the same thing can be achieved using an interpreter as well.
+How is it different? 
+Let me show you If in case we make use of the interpreter software instead of the compiler we call that process as interpretation. 
+
+INTERPRETATION PROCESS
+
+let us assume this is the same high level language program
+and this is the microprocessor This time. 
+What is going to happen ?
+I am going to take the help of a software called as the interpreters software 
+What this interpreter software ?
+would do is it will take only again I repeat It takes only a single instruction from the program. Just one instruction in obviously it is going to be the first instruction That that one
+is fed as input to my interpreter and the is going to convert that single high level into machine level like this And that
+machine level language instruction is fed to the microprocessor. I would now execute it but it doesn 't
+mean that the complete program has been given to it.
+
+Just one instruction has been has been given It needs
+the other instruction but it has to inevitably wait because this process has to now repeat itself. There in the second instruction is fetched. The second instruction is fed to the interpreter - it converts. The second instruction into machine level like this that machine level language instruction is
+given to the microprocessor It would execute it Now it wants a third instruction but it has to wait because now again the process should repeat where the third instruction is taken. It is interpreted into machine level like this and this
+particular machine level language instruction is given to the microprocessor after which the program execution is done 

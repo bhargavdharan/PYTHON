@@ -1,6 +1,192 @@
+EVOLUTION OF COMPUTERS --> refer basic intro document in this repository
+
+MLL , ALL & HLL --> refer basic intro document in this repository
+
+Interpreter & compiler difference --> refer basic intro document in this repository
+
 ------------------PYTHON PROGRAMMING LANGUAGE-------------------------
 
-1. INTRO
+1. INTRODUCTION
+
+What is python?
+Why python is so famous?
+History of python
+ALL, MLL, HLL
+Compiler vs Interpreter
+
+What is python??
+-----------------
+Python is an interpreted, high-level, general-purpose programming language. Created by Guido van Rossum and first released in 1991, Python's design philosophy emphasizes code readability with its notable use of significant whitespace. Its language constructs and object-oriented approach aim to help programmers write clear, logical code for small and large-scale projects.
+multiple programming paradigms,
+supports including structured (particularly, procedural),
+object-oriented, and functional programming.
+
+It is used for:
+web development (server-side),
+software development,
+mathematics,
+system scripting.
+
+Why python is so famous and most recognized language?
+-----------------------------------------------------
+First and foremost reason why Python is much popular because it is highly productive as compared to other programming languages like C++ and Java. It is much more concise and expressive language and requires less time, effort, and lines of code to perform the same operations.
+The Python features like one-liners and dynamic type system allow developers to write very fewer lines of code for tasks that require more lines of code in other languages. This makes Python very easy-to-learn programming language even for beginners and newbies. For instance, Python programs are slower than Java, but they also take very less time to develop, as Python codes are 3 to 5 times shorter than Java codes. Python is also very famous for its simple programming syntax, code
+readability and English-like commands that make coding in Python lot easier and efficient.
+
+History of Python
+------------------------
+Python was conceived in the late 1980s by Guido van
+Rossum at Centrum Wiskunde & Informatica (CWI) in
+the Netherlands as a successor to the ABC language (itself inspired by SETL), capable of exception handling and
+interfacing with the Amoeba operating system.
+Python's name is derived from the British comedy group Monty Python, whom Python creator Guido van Rossum
+enjoyed while developing the language. Monty Python references appear frequently in Python code and
+culture
+for example : the metasyntactic variables often used in Python literature are spam and eggs instead of the traditional foo and bar. The official Python documentation also contains various references to Monty Python routines.
+
+ALL, MLL, HLL
+-------------------
+Before you learn any programming language, it is important
+for one to understand some of the basics about computer
+and what are the languages that a computer can
+understand.
+
+Let's have a view on it.
+A computer is a collection of hardware components. Let us
+consider here few hardware components such as:
+
+image.png
+
+Out of these and many other hardware components, the most important or the heart of the computer is the
+Microprocessor or CPU.
+Microprocessor or CPU: A microprocessor is an electronic component that is used by a computer to do its work.
+It is a central processing unit on a single integrated circuit chip containing millions of very small components
+including transistors, resistors, and diodes that work together. They are created using a technology called as
+Semiconductor technology.
+
+Semiconductor Technology??
+Any device which is made up of transistors is referred to as working in Semiconductor Technology.
+A transistor is a device that regulates current or voltage flow and acts as a switch or gate for electronic signals. The
+transistors have three terminals emitter, base and collector.
+There are two types of transistors:
+1) NPN transistor.
+2) PNP transistor.
+Transistors can only store voltages. There are two levels of voltages:
+Low Voltage referred to as OV
+High Voltage referred to as— 5V
+
+If we see the same in Software engineer's view, he/she looks the
+two levels as:
+Low Voltage referred to as —»O
+High Voltage referred to as— 1
+
+Therefore, in the perspective of a software engineer a Microprocessor or CPU can understand combinations of O and I.
+
+Programming Languages
+---------------------
+Language is the main medium for communicating between the computer systems. 
+A program is a collection of instructions that can be executed by a computer to
+perform a specific task.
+There were several programming languages used to communicate
+with the Computer.
+
+Case-I
+------
+The world's first computer was invented in the year 1940s.
+During that time the task of a programmer was not simple.
+For example, if they wanted microprocessor to perform any operation then they had to use combinations of 0's and 1's.
+During this time all the programs where written in the language called
+110011010101100 as Machine Level Language. It is one of the low-level
+programming languages.
+
+Codes written in 1940's as
+To perform addition of two numbers: 0110110
+To perform subtraction of two numbers: 1110111
+To perform multiplication of two numbers: 1010101
+To perform division of two numbers: 0100100
+
+The machine level code was taken as input and given to the
+microprocessor as the machine understands the binary value
+code and it gives the output.
+The main advantage of using Machine language is that there is
+no need of a translator to translate the code, as the
+Computer directly can understand.
+The disadvantage was, it was difficult for a programmer to
+write the code or remember the code in this type of
+language.
+
+Case-2
+------
+
+The problem with Machine level code approach was decided to be
+changed in the year 1950s.
+They thought that instead of writing a long sequence of Os
+and 1's a single instruction can be given.
+
+Codes written in 1950's as
+To perform addition of two numbers: ADD
+To perform subtraction of two numbers: SUB
+To perform multiplication of two numbers: MUL
+To perform division of two numbers: DIV
+
+This approach of writing code is what called as Assembly
+Level Language. Instead of using numbers like in Machine
+languages here we use words or names in English forms.
+
+ALL --> assembler --> MLL(Microprocessor) ---> O/P
+
+An Assembler is software which takes Assembly Level Language
+(ALL) programs as input and converts it into Machine Level
+Language (MLL) program.
+
+Case-3:
+-------
+People always want the things to be simple and easier so, in
+1960s they came up with next type of language called High
+Level Programming Language.
+High Level Languages are written in a form that is close to
+our human language, enabling the programmer to just focus on
+the problem being solved.
+
+Codes written in 1960's as
+To perform addition of two numbers: +
+To perform subtraction of two numbers: -
+To perform multiplication of two numbers: *
+To perform division of two numbers: /
+
+HLL --> compiler --> MLL(microprocessor) --> O/P
+
+A compiler is software which takes High Level Language (HLL)
+programs as input and converts it into Machine Level Language
+(MLL) program.
+
+Compiler vs Interpreter
+-----------------------
+
+Interpreters and compilers are very similar in structure. The main
+difference is that compilation is the process of converting a HLL
+program into MLL using software called as compiler. In compilation
+the entire HLL program is converted to MLL in one shot by the
+compiler and hence all the MLL instructions are readily available for
+CPU.
+Interpretation is the process of converting HLL program into MLL
+using software called as interpreter. In interpretation, at any given
+point of time only Q single line of HLL program is converted to MLL
+which is then executed by CPU. Post execution the next line is
+converted and executed. This process repeat itself till all lines in
+the program are converted and executed. Because of this, CPU does
+not have all lines of program readily available for execution.
+An interpreter will typically generate an efficient Machine Level
+representation and immediately evaluate it.
+
+image.png
+
+
+Reasons to learn python
+1. Simple syntax
+2. Usage in AI
+
+Father of the Python - Guido Van Rossum - 1989 - Netherland - He is one of the computer scientist working in most famous CWI - Amoeba OS(C language)
 
 * Why Should we learn Python ?
 
@@ -173,4 +359,77 @@ Python does not have a random() function to make a random number, but Python has
 int() - constructs an integer number from an integer literal, a float literal (by removing all decimals), or a string literal (providing the string represents a whole number)
 float() - constructs a float number from an integer literal, a float literal or a string literal (providing the string represents a float or an integer)
 str() - constructs a string from a wide variety of data types, including strings, integer literals and float literals
+
+-- BOOLEAN TYPES
+
+Booleans represent one of two values: True or False.
+
+You can evaluate any expression in Python, and get one of two answers, True or False.
+
+When you compare two values, the expression is evaluated and Python returns the Boolean answer:
+
+print(10 > 9)
+print(10 == 9)
+print(10 < 9)
+
+When you run a condition in an if statement, Python returns True or False:
+
+a = 200
+b = 33
+
+if b > a:
+  print("b is greater than a")
+else:
+  print("b is not greater than a")
+
+___Evaluate Values and Variables__
+The bool() function allows you to evaluate any value, and give you True or False in return,
+
+__Most Values are True__
+Almost any value is evaluated to True if it has some sort of content.
+Any string is True, except empty strings.
+Any number is True, except 0.
+Any list, tuple, set, and dictionary are True, except empty ones.
+
+__Some Values are False__
+In fact, there are not many values that evaluate to False, except empty values, such as (), [], {}, "", the number 0, and the value None. And of course the value False evaluates to False.
+
+One more value, or object in this case, evaluates to False, and that is if you have an object that is made from a class with a __len__ function that returns 0 or False:
+
+__Functions can Return a Boolean__
+You can create functions that returns a Boolean Value:
+
+def myFunction() :
+  return True
+
+print(myFunction())
+
+
+-- SEQUENCE TYPES
+
+--> Python Lists
+
+* Lists are used to store multiple items in a single variable.
+* Lists are one of 4 built-in data types in Python used to store collections of data, the other 3 are Tuple, Set, and Dictionary, all with different qualities and usage.
+* Lists are created using square brackets[]
+
+myList = ["apple","Banana","Cherry]
+print(myList)
+
+* List Items
+
+List items are ordered, changeable, and allow duplicate values.
+
+List items are indexed, the first item has index [0], the second item has index [1] etc.
+
+Ordered : When we say that lists are ordered, it means that the items have a defined order, and that order will not change.
+
+If you add new items to a list, the new items will be placed at the end of the list.
+
+changeable : The list is changeable, meaning that we can change, add, and remove items in a list after it has been created.
+
+Allow duplicates : Since lists are indexed, lists can have items with the same value
+
+thislist = ["apple", "banana", "cherry", "apple", "cherry"]
+print(thislist)
 
